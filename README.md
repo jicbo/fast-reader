@@ -23,7 +23,7 @@ Speed reading is a technique that trains you to read and comprehend text more qu
 
 ## Try It Out
 
-Try it out here: [https://your-vercel-app-url.vercel.app](https://your-vercel-app-url.vercel.app)
+Try it out here: [https://fastreader-jicbos-projects.vercel.app/](https://fastreader-jicbos-projects.vercel.app/)
 
 ---
 
