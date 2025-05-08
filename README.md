@@ -1,6 +1,6 @@
 # FastReader
 
-**FastReader** is a web application designed to help you practice and experiment with speed reading(an efficient way of reading that allows you to process text faster and improve your reading skills). Simply paste any text and let FastReader display it one word at a time at your chosen speed (words per minute). Adjust the speed, pause, and navigate through the text to find your optimal reading pace.
+**FastReader** is a web application designed to help you practice and experiment with speed reading (an efficient way of reading that allows you to process text faster and improve your reading skills). Simply paste any text and let FastReader display it one word at a time at your chosen speed (words per minute). Adjust the speed, pause, and navigate through the text to find your optimal reading pace.
 
 ## Why Speed Reading?
 

@@ -147,7 +147,7 @@ const SpeedReader: React.FC = () => {
 						<Slider
 							id="wpm-slider"
 							min={50}
-							max={800}
+							max={600}
 							step={10}
 							value={[wpm]}
 							onValueChange={handleWpmChange}
