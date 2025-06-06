@@ -14,8 +14,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-	title: "FastReader",
-	description: "FastReader helps you read faster through dynamic text visualization techniques. Improve your reading speed and comprehension with our intuitive web application.",
+	title: "Fast Reader",
+	description: "Fast Reader helps you read faster through dynamic text visualization techniques.",
 };
 
 export default function RootLayout({
